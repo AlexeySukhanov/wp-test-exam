@@ -104,6 +104,7 @@ Thumbs.db
 
 # track these mu-plugins, plugins, and themes
 # add your own entries here
+!wp-content/mu-plugins/mu-plugins-activator.php
 !wp-content/mu-plugins/radio-buttons-for-taxonomies/
 !wp-content/mu-plugins/advanced-custom-fields-pro/
 !wp-content/plugins/akismet/
