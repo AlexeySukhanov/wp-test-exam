@@ -4,9 +4,13 @@
  *
  */
 
-//Add custom post types and associated taxonomies.
+
+/**
+ * Adds custom post types and associated taxonomies.
+ */
 require 'cpt/artists.php';
 require 'cpt/releases.php';
+
 
 /**
  * Adds year select to year taxonomy page
@@ -14,8 +18,7 @@ require 'cpt/releases.php';
 function add_year_select(){
     $request = $_SERVER['REQUEST_URI'];
 
-    if ( $request == '/wp-admin/edit-tags.php?taxonomy=year&post_type=releases') {
-        $status = 'show years';
+    if ( $request == '/wp-admin/edit-tags.php?taxonomy=year&post_type=releases' ) {
         wp_enqueue_script('year-select-js', get_stylesheet_directory_uri() . '/assets/js/year-select.js', array('jquery'), '', true);
         wp_enqueue_script('custom-js', get_stylesheet_directory_uri() . '/assets/js/custom.js', array('jquery', 'year-select-js'), '', true);
     }
