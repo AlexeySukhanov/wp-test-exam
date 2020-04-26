@@ -1,5 +1,5 @@
 /*
- * Custom JS code
+ * Admin Custom JS code
  *
  */
 
@@ -27,3 +27,4 @@ jQuery(document).ready(function($){
     }
 
 });
+

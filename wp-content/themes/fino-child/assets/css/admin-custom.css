@@ -1,0 +1,17 @@
+/*
+ * Admin Custom CSS code
+ *
+ */
+
+/* Customize acf time picker */
+.ui_tpicker_hour,
+.ui_tpicker_hour::before {
+    display: none !important;
+}
+#ui-datepicker-div .ui-timepicker-div.ui-timepicker-oneLine dl dd.ui_tpicker_minute:before {
+    display: none;
+}
+.ui_tpicker_minute_slider .ui-timepicker-select,
+.ui_tpicker_second_slider .ui-timepicker-select {
+    padding-left: 24px;
+}
