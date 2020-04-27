@@ -8,13 +8,12 @@ jQuery(document).ready(function($){
     /*
      * Adds the ability to select a year
      */
-    if( $('input').is('#tag-name') ) { // On year taxonomy edit-tags.php page
-        $('#tag-name').yearselect({
+    if( $('input').is('[value="year"]') ) { // On year taxonomy term.php && edit-tags.php pages
+        $('input#name').yearselect({
             start: 1860,
             order:'desc'
         });
-    } else if( $('input').is('[name=taxonomy][value=year]') ) { // On year taxonomy term.php page
-        $('#name').yearselect({
+        $('#tag-name').yearselect({
             start: 1860,
             order:'desc'
         });
