@@ -41,6 +41,7 @@
 
   <div class="blog">
         <div class="container">
+
             <div class="row">
                 <div class="col-md-12 ">
                     <div class="blog-detail">
@@ -61,6 +62,14 @@
                 </div>
 
             </div>
+
+            <div class="row watched-container">
+                <div class="col-md-12">
+                    <h2 class="text-center watched-title">Already Watched</h2>
+                    <?php echo do_shortcode('[dd_lastviewed widget_id="2"]'); ?>
+                </div>
+            </div>
+
         </div>
     </div>
 

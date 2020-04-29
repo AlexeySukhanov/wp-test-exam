@@ -71,7 +71,8 @@
                         arsort( $titles_years );
 
                         foreach ( $titles_years as $title => $year  ):
-                            echo '<div class="realise-line"><div>' . $title . '</div><div class="float-right">' . $year . '</div></div>';
+                            $page_url = get_page_by_title( $title, 'OBJECT', 'releases' )->guid;
+                            echo '<a href="' . $page_url .  '" class="realise-line"><div>' . $title . '</div><div class="float-right">' . $year . '</div></a>';
                         endforeach;
 
                     endforeach;
@@ -95,7 +96,7 @@
                 wp_reset_postdata();
                 arsort($releases_year);
 
-                echo '<h2 class="text-center">Tracks List</h2>';
+                echo '<h2 class="text-center">All Tracks List ( by years )</h2>';
 
                 $last_year = '';
 
