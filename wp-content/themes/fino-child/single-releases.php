@@ -39,7 +39,7 @@
 
     <!-- ====== blogs ====== -->
 
-  <div class="blog sp-80">
+  <div class="blog">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 ">

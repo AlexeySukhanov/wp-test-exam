@@ -39,7 +39,7 @@
 
     <!-- ====== blogs ====== -->
 
-  <div class="blog sp-80">
+  <div class="blog">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 ">
@@ -49,7 +49,7 @@
                     ?>
                     <?php while(have_posts()) : the_post(); ?>
 
-                       <?php  get_template_part( 'content-parts/content', 'single-release' ); ?>
+                       <?php  get_template_part( 'content-parts/content', 'single-artist' ); ?>
 
                      <?php endwhile; ?>
                            <?php else :
