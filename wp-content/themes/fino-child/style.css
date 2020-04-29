@@ -14,6 +14,136 @@ Fino is distributed under the terms of the GNU General Public License v3
 
 @import url("../fino/style.css");
 
-/*div { background-color:red !important; }*/
+h2 {
+    margin-top: 26px;
+}
+
+.facetwp-pager {
+    float: right;
+}
+
+.facetwp-sort {
+    margin-bottom: 18px;
+}
+
+.fwpl-item img {
+    width: 100%;
+}
+
+.blog-detail-content--release,
+.blog-detail-content--artist {
+    margin: 0;
+}
+
+.banner-heading,
+.banner-heading a {
+    color: #fff;
+}
+.banner {
+    padding: 120px 0 120px;
+}
+.trackname {
+    text-align: left !important;
+}
+
+.post-detail--realese {
+    padding: 40px 0 45px;
+    overflow: hidden;
+    margin-bottom: 60px;
+}
+
+.post-detail-meta {
+    border: none;
+}
+
+.blog-detail-content {
+    padding: 0px 17px;
+    margin: 0;
+    padding-bottom: 0px;
+}
+
+.blog-detail-content h3 {
+    padding: 24px 0 14px;
+}
+
+.blog-detail-content h3 .h3 {
+    font-size: 18px;
+}
+
+.blog-wrap, .blog-iso-item {
+    position: relative;
+    margin: 0 auto 0px;
+}
+
+.banner-heading h2 {
+    padding-bottom: 50px;
+}
+.realise-line {
+    margin: 10px 0;
+    padding: 16px 28px 10px;
+    font-size: 18px;
+    background-color: rgba(86,61,124,.15);
+    border: 1px solid rgba(86,61,124,.15);
+    justify-content: space-between;
+    display: flex;
+}
+
+.realise-line:hover {
+    background-color: rgba(86,61,124,.3);
+    border: 1px solid rgba(86,61,124,.3);
+}
+
+.post-detail-meta p {
+    font-size: 18px;
+}
+
+.blog {
+    margin-top: 80px;
+}
+
+.head-detail {
+    margin-top: 100px;
+}
+
+.watched-carousel_wrapper {
+    margin: 40px 0;
+    text-align: center;
+}
+
+.watched-carousel_cover {
+    /*height: 214px;*/
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
+    /*display: block;*/
+}
+
+.lastViewedThumb {
+    width: 100%;
+}
+
+.lastViewedTitle {
+    font-size: 16px;
+}
+
+.owl-item img {
+    margin-bottom: 10px;
+    overflow: hidden;
+    height: 165px;
+}
+
+.post-img {
+    width: 60%;
+    margin: 0 auto 40px;
+}
+
+.watched-container {
+    margin: 60px 0 80px;
+}
+
+.watched-title {
+    margin-bottom: 26px;
+}
+
+
 
 
