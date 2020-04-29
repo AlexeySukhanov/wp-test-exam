@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-03-29 20:35+0200\n"
+"PO-Revision-Date: 2020-03-29 22:14+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dd_templates/form.php:11
+msgid "Last Viewed"
+msgstr "Recent Bekeken"
+
+#: dd_templates/form.php:44
+msgid "Title:"
+msgstr "Titel:"
+
+#: dd_templates/form.php:49
+msgid "Number of items to show:"
+msgstr "Aantal te tonen items:"
+
+#: dd_templates/form.php:59
+msgid "Filter on Posttypes/Terms:"
+msgstr "Filter op Posttypes/Terms:"
+
+#: dd_templates/form.php:100
+msgid "Exclude IDs (Separate with commas):"
+msgstr "IDs uitsluiten (Gescheiden door comma’s):"
+
+#: dd_templates/form.php:143
+msgid "Title of the post"
+msgstr "Titel van de post"
+
+#: dd_templates/form.php:228
+msgid "Truncate Characters:"
+msgstr "Tekens afkappen:"
+
+#: dd_templates/form.php:252
+msgid "Breaklink:"
+msgstr "Breuklijn:"
+
+#: dd_templates/form.php:276
+msgid "Cookie Lifetime:"
+msgstr "Cookie levensduur:"
+
+#: dd_templates/form.php:292
+msgid "seconds"
+msgstr "seconden"
+
+#: dd_templates/form.php:293
+msgid "minutes"
+msgstr "minuten"
+
+#: dd_templates/form.php:294
+msgid "hours"
+msgstr "uren"
+
+#: dd_templates/form.php:295
+msgid "days"
+msgstr "dagen"
+
+#: dd_templates/form.php:296
+msgid "years"
+msgstr "jaren"
+
+#: dd_templates/form.php:309
+msgid "Avoid Widget Caching:"
+msgstr "Voorkom Widget Caching:"
+
+#: dd_templates/form.php:312
+msgid ""
+"Avoid this widget gets cached by any 3th parties. Depends on what kind of "
+"cache, configure those settings below, to still get the best performance out "
+"of this widget."
+msgstr ""
+"Voorkom dat deze widget door eventuele derde partijen in de cache wordt "
+"geplaatst. Dit hangt af van wat voor soort cache. Configureer onderstaande "
+"instellingen om toch de beste prestaties uit deze widget te halen."
+
+#: dd_templates/form.php:332
+msgid "Load widget with Ajax"
+msgstr "Laad widget via Ajax"
+
+#: dd_templates/form.php:353
+msgid "Set cookie by Javascript"
+msgstr "Plaats de cookie met javascript"
+
+#: dd_templates/form.php:360
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: dd_templates/form.php:366
+msgid "Donate & Review"
+msgstr "Doneer & Recenseer"
+
+#: dd_templates/form.php:368
+msgid "This software is free as in beer and as in freedom; however..........."
+msgstr "Deze software is gratis zoals in bier en als in vrijheid; echter……….."
+
+#: dd_templates/form.php:369
+#, php-format
+msgid ""
+"Donations allow me to spend more time developing all aspects of this plugin "
+"and providing the <a href='%s'>free support</a> that so many people have "
+"enjoyed."
+msgstr ""
+"Dankzij donaties kan ik meer tijd besteden aan het ontwikkelen van alle "
+"aspecten van deze plug-in en het geven van de <a href='%s'> gratis "
+"ondersteuning </a> waar zoveel mensen van genoten hebben."
+
+#: dd_templates/form.php:370
+msgid ""
+"It also keeps me motivated: it is a great feeling for someone to be willing "
+"to pay ( even a few Euros ) for something they can get for free. So be kind "
+"and please consider donating."
+msgstr ""
+"Het motiveert me ook: het is een geweldig gevoel dat iemand bereid is (zelfs "
+"een paar euro) te betalen voor iets dat ze gratis kunnen krijgen. Wees dus "
+"vriendelijk en overweeg alstublieft te doneren."
+
+#: dd_templates/form.php:371
+#, php-format
+msgid ""
+"If donating ( even a small amount ) is too much for you, but still you feel "
+"a little guilty ( because in your heart this plugin is one of your "
+"favourites ) consider then at least a <a href='%s'>review</a> (it's free "
+"btw). Your 'free' review keeps me motivated as well and helps prospects to "
+"choose for this plugin."
+msgstr ""
+"Als doneren (zelfs een klein bedrag) te veel voor je is, maar je voelt je "
+"nog steeds een beetje schuldig (omdat in je hart deze plug-in een van je "
+"favorieten is) overweeg dan om op zijn minst een <a href='%s'> review </a> "
+"(het is trouwens gratis). Uw ‘gratis’ beoordeling houdt me ook gemotiveerd "
+"en helpt potentiële klanten om voor deze plug-in te kiezen."
+
+#: dd_templates/form.php:372
+msgid "You can't make me happier if you do both! ;)"
+msgstr "Je kunt me niet gelukkiger maken als je beide doet! ;)"
+
+#: dd_templates/form.php:373
+msgid "Donate"
+msgstr "Doneer"
+
+#: dd_templates/form.php:374
+msgid "Review"
+msgstr "Recenseer"
+
+#: last-viewed.php:65
+msgid "A list of the recently viewed posts, pages or custom posttypes."
+msgstr ""
+"Een lijst met de onlangs bekeken berichten, pagina's of aangepaste posttypen."
+
+#: last-viewed.php:442
+#, php-format
+msgid "No options set yet! Set the options in the <a href='%s'>widget</a>"
+msgstr ""
+"Nog geen opties ingesteld! Stel de opties in de <a href='%s'>widget</a> in"
+
+#~ msgid "excerpt"
+#~ msgstr "samenvatting"
+
+#~ msgid "plain content"
+#~ msgstr "platte tekst"
+
+#~ msgid "rich content"
+#~ msgstr "rijke content"

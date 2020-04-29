@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-03-29 23:00+0200\n"
+"PO-Revision-Date: 2020-03-29 23:04+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dd_templates/form.php:11
+msgid "Last Viewed"
+msgstr "最近来过"
+
+#: dd_templates/form.php:44
+msgid "Title:"
+msgstr "标题："
+
+#: dd_templates/form.php:49
+msgid "Number of items to show:"
+msgstr "显示的项目数："
+
+#: dd_templates/form.php:59
+msgid "Filter on Posttypes/Terms:"
+msgstr "按帖子类型/术语进行过滤："
+
+#: dd_templates/form.php:91
+msgid "Exclude IDs (Separate with commas):"
+msgstr "排除ID（用逗号分隔）："
+
+#: dd_templates/form.php:131
+msgid "Title of the post"
+msgstr "帖子标题"
+
+#: dd_templates/form.php:216
+msgid "Truncate Characters:"
+msgstr "截断字符："
+
+#: dd_templates/form.php:240
+msgid "Breaklink:"
+msgstr "中断链接:"
+
+#: dd_templates/form.php:264
+msgid "Cookie Lifetime:"
+msgstr "Cookie寿命："
+
+#: dd_templates/form.php:280
+msgid "seconds"
+msgstr "秒"
+
+#: dd_templates/form.php:281
+msgid "minutes"
+msgstr "分钟"
+
+#: dd_templates/form.php:282
+msgid "hours"
+msgstr "小时"
+
+#: dd_templates/form.php:283
+msgid "days"
+msgstr "天"
+
+#: dd_templates/form.php:284
+msgid "years"
+msgstr "年"
+
+#: dd_templates/form.php:297
+msgid "Avoid Widget Caching:"
+msgstr "避免小部件缓存："
+
+#: dd_templates/form.php:300
+msgid ""
+"Avoid this widget gets cached by any 3th parties. Depends on what kind of "
+"cache, configure those settings below, to still get the best performance out "
+"of this widget."
+msgstr ""
+"避免此小部件被任何第三方缓存。 取决于哪种类型的缓存，请在下面配置那些设置，以"
+"仍然从此小部件中获得最佳性能。"
+
+#: dd_templates/form.php:320
+msgid "Load widget with Ajax"
+msgstr "使用Ajax加载小部件"
+
+#: dd_templates/form.php:341
+msgid "Set cookie by Javascript"
+msgstr "通过Javascript设置Cookie"
+
+#: dd_templates/form.php:348
+msgid "Shortcode"
+msgstr "短代码"
+
+#: dd_templates/form.php:354
+msgid "Donate & Review"
+msgstr "捐赠与评论"
+
+#: dd_templates/form.php:356
+msgid "This software is free as in beer and as in freedom; however..........."
+msgstr "该软件是免费的，就像啤酒和自由一样； 然而……….."
+
+#: dd_templates/form.php:357
+#, php-format
+msgid ""
+"Donations allow me to spend more time developing all aspects of this plugin "
+"and providing the <a href='%s'>free support</a> that so many people have "
+"enjoyed."
+msgstr ""
+"捐款使我可以花更多的时间开发该插件的各个方面，并提供许多人喜欢的<a href='%s'>"
+"免费支持</a>。"
+
+#: dd_templates/form.php:358
+msgid ""
+"It also keeps me motivated: it is a great feeling for someone to be willing "
+"to pay ( even a few Euros ) for something they can get for free. So be kind "
+"and please consider donating."
+msgstr ""
+"这也让我充满动力：有人愿意为他们免费获得的东西付钱（甚至几欧元），这是一种很"
+"棒的感觉。 因此，请客气，并考虑捐赠。"
+
+#: dd_templates/form.php:359
+#, php-format
+msgid ""
+"If donating ( even a small amount ) is too much for you, but still you feel "
+"a little guilty ( because in your heart this plugin is one of your "
+"favourites ) consider then at least a <a href='%s'>review</a> (it's free "
+"btw). Your 'free' review keeps me motivated as well and helps prospects to "
+"choose for this plugin."
+msgstr ""
+"如果捐赠（甚至是少量）对您来说太多了，但您仍然感到内（因为在您的心中此插件是"
+"您的最爱之一），请考虑至少<a href='%s'>评论</a>（免费）。 您的“免费”评价也使"
+"我充满动力，并帮助潜在客户选择此插件。"
+
+#: dd_templates/form.php:360
+msgid "You can't make me happier if you do both! ;)"
+msgstr "如果你俩都做的话，你不能让我更快乐！ ;）"
+
+#: dd_templates/form.php:361
+msgid "Donate"
+msgstr "捐助"
+
+#: dd_templates/form.php:362
+msgid "Review"
+msgstr "评"
+
+#: last-viewed.php:65
+msgid "A list of the recently viewed posts, pages or custom posttypes."
+msgstr "最近查看的帖子，页面或自定义帖子类型的列表。"
+
+#: last-viewed.php:442
+#, php-format
+msgid "No options set yet! Set the options in the <a href='%s'>widget</a>"
+msgstr "尚未设置任何选项！ 在<a href='%s'>小工具</a>中设置选项"
+
+#~ msgid "excerpt"
+#~ msgstr "摘抄"
+
+#~ msgid "plain content"
+#~ msgstr "纯文本"
+
+#~ msgid "rich content"
+#~ msgstr "富文本"

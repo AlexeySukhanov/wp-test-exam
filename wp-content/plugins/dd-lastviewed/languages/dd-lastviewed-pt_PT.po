@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-03-29 22:57+0200\n"
+"PO-Revision-Date: 2020-03-29 23:00+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dd_templates/form.php:11
+msgid "Last Viewed"
+msgstr "visitado recentemente"
+
+#: dd_templates/form.php:44
+msgid "Title:"
+msgstr "Título:"
+
+#: dd_templates/form.php:49
+msgid "Number of items to show:"
+msgstr "Número de itens a mostrar:"
+
+#: dd_templates/form.php:59
+msgid "Filter on Posttypes/Terms:"
+msgstr "Filtrar por Posttipos / Termos:"
+
+#: dd_templates/form.php:91
+msgid "Exclude IDs (Separate with commas):"
+msgstr "Excluir IDs (separados por vírgulas):"
+
+#: dd_templates/form.php:131
+msgid "Title of the post"
+msgstr "Título da postagem"
+
+#: dd_templates/form.php:216
+msgid "Truncate Characters:"
+msgstr "Truncar caracteres:"
+
+#: dd_templates/form.php:240
+msgid "Breaklink:"
+msgstr "Breaklink:"
+
+#: dd_templates/form.php:264
+msgid "Cookie Lifetime:"
+msgstr "Vida útil do cookie:"
+
+#: dd_templates/form.php:280
+msgid "seconds"
+msgstr "segundos"
+
+#: dd_templates/form.php:281
+msgid "minutes"
+msgstr "minutos"
+
+#: dd_templates/form.php:282
+msgid "hours"
+msgstr "horas"
+
+#: dd_templates/form.php:283
+msgid "days"
+msgstr "dias"
+
+#: dd_templates/form.php:284
+msgid "years"
+msgstr "anos"
+
+#: dd_templates/form.php:297
+msgid "Avoid Widget Caching:"
+msgstr "Evite o cache de widgets:"
+
+#: dd_templates/form.php:300
+msgid ""
+"Avoid this widget gets cached by any 3th parties. Depends on what kind of "
+"cache, configure those settings below, to still get the best performance out "
+"of this widget."
+msgstr ""
+"Evite que esse widget seja armazenado em cache por terceiros. Depende do "
+"tipo de cache, defina as configurações abaixo para ainda obter o melhor "
+"desempenho desse widget."
+
+#: dd_templates/form.php:320
+msgid "Load widget with Ajax"
+msgstr "Carregar widget com Ajax"
+
+#: dd_templates/form.php:341
+msgid "Set cookie by Javascript"
+msgstr "Definir cookie por Javascript"
+
+#: dd_templates/form.php:348
+msgid "Shortcode"
+msgstr "Código curto"
+
+#: dd_templates/form.php:354
+msgid "Donate & Review"
+msgstr "Doação e revisão"
+
+#: dd_templates/form.php:356
+msgid "This software is free as in beer and as in freedom; however..........."
+msgstr ""
+"Este software é gratuito tanto na cerveja quanto na liberdade; Contudo……….."
+
+#: dd_templates/form.php:357
+#, php-format
+msgid ""
+"Donations allow me to spend more time developing all aspects of this plugin "
+"and providing the <a href='%s'>free support</a> that so many people have "
+"enjoyed."
+msgstr ""
+"As doações me permitem gastar mais tempo desenvolvendo todos os aspectos "
+"deste plug-in e fornecendo o <a href='%s'> suporte gratuito </a> que tantas "
+"pessoas gostaram."
+
+#: dd_templates/form.php:358
+msgid ""
+"It also keeps me motivated: it is a great feeling for someone to be willing "
+"to pay ( even a few Euros ) for something they can get for free. So be kind "
+"and please consider donating."
+msgstr ""
+"Isso também me mantém motivado: é uma ótima sensação alguém estar disposto a "
+"pagar (até alguns euros) por algo que pode obter gratuitamente. Portanto, "
+"seja gentil e considere fazer uma doação."
+
+#: dd_templates/form.php:359
+#, php-format
+msgid ""
+"If donating ( even a small amount ) is too much for you, but still you feel "
+"a little guilty ( because in your heart this plugin is one of your "
+"favourites ) consider then at least a <a href='%s'>review</a> (it's free "
+"btw). Your 'free' review keeps me motivated as well and helps prospects to "
+"choose for this plugin."
+msgstr ""
+"Se doar (até uma pequena quantia) é demais para você, mas ainda se sente um "
+"pouco culpado (porque no seu coração este plugin é um dos seus favoritos), "
+"considere pelo menos uma <a href='%s'> revisão </a> (é grátis). Seu "
+"comentário “gratuito” também me mantém motivado e ajuda os clientes em "
+"potencial a escolher esse plugin."
+
+#: dd_templates/form.php:360
+msgid "You can't make me happier if you do both! ;)"
+msgstr "Você não pode me deixar mais feliz se fizer as duas coisas! ;)"
+
+#: dd_templates/form.php:361
+msgid "Donate"
+msgstr "Doar"
+
+#: dd_templates/form.php:362
+msgid "Review"
+msgstr "Rever"
+
+#: last-viewed.php:65
+msgid "A list of the recently viewed posts, pages or custom posttypes."
+msgstr ""
+"Uma lista das postagens visualizadas recentemente, páginas para tipos de "
+"postagens personalizadas."
+
+#: last-viewed.php:442
+#, php-format
+msgid "No options set yet! Set the options in the <a href='%s'>widget</a>"
+msgstr ""
+"Ainda não há opções definidas! Defina as opções no <a href='%s'>widget</a>"
+
+#~ msgid "excerpt"
+#~ msgstr "excerto"
+
+#~ msgid "plain content"
+#~ msgstr "conteúdo simples"
+
+#~ msgid "rich content"
+#~ msgstr "conteúdo rico"
