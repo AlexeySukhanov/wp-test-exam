@@ -38,10 +38,13 @@ Release page must have:
 2. Create a shortcode for the 'Previous watched' carousel. In the artist page, it should possible to see the previously watched artists in the current session. The release page must showcase the previously watched releases. Also, the shortcode should have the current_id parameter to ensure that we do not show the current page in the carousel.
 
 What if we have enabled the HTML cache and our web-server serves cached the static HTML pages?
+- In this case, carousel elements will also be cached, this will lead to irrelevant data
 
 Can you make this personalized carousel work right with the enabled HTML cache? 
+- No, I did not have time to do this.
 
 What is the best approach to do this?
+ - The best way is to fill the contents of the carousel container using an ajax request. An iframe could also be used for this, but this is a less preferred way.
 
 Clone this repository and send us the link to your solution published on GitHub.
 Do not forget to whitelist all used plugins in gitignore.
