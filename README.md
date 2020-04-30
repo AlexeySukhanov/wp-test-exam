@@ -46,7 +46,10 @@ Can you make this personalized carousel work right with the enabled HTML cache?
 What is the best approach to do this?
  - The best way is to fill the contents of the carousel container using an ajax request. An iframe could also be used for this, but this is a less preferred way.
 
-Clone this repository and send us the link to your solution published on GitHub.
-Do not forget to whitelist all used plugins in gitignore.
-Also, add mysqldump with sample data and settings into your repository.
-The task will be considered done after we receive a working solution that we can successfully initialize in the clean WordPress installation.
+admin panel: 
+user: sadmin
+pass: 0000
+
+Author's completed page for testing:
+{domain_name}/artists/yello/
+
